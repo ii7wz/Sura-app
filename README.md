@@ -103,11 +103,11 @@ The full training and evaluation code is in [`ml_training/SuraApp_Training.ipynb
 
 ## My role
 
-This was a six-member team project. My main contributions were:
+This was a six-member team project. My contributions were:
 
-- **Dataset:** collecting and labeling the night-sky images by Bortle scale
-- **Model evaluation:** analyzing results with the classification report and confusion matrix
-- **Firebase:** contributing to the Authentication and Firestore integration and the data structure for user data
+- **Dataset:** contributing to building the Bortle-scale night-sky dataset and analyzing it
+- **AI:** contributing to the development of the AI model
+- **Design:** contributing to the design of the app logo
 
 ## Repository structure
 
